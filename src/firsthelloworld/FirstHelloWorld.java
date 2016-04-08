@@ -18,6 +18,8 @@ public class FirstHelloWorld {
         // TODO code application logic here
         System.out.println("Hello,World!!");
         System.out.println("Hello!３年生!!!");
+        System.out.println("こんにちは世界!!");
+        System.out.println("こんにちは3年生!!!");
     }
     
 }
